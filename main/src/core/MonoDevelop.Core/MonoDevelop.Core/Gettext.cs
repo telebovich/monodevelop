@@ -32,6 +32,7 @@ using System.IO;
 using Mono.Unix;
 using System.Globalization;
 using System.Threading;
+using System.Runtime.InteropServices;
 
 namespace MonoDevelop.Core
 {
